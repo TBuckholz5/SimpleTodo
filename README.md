@@ -6,6 +6,8 @@ Submitted by: **Trent Buckholz**
 
 Time spent: **4** hours spent in total
 
+## User Stories
+
 The following **required** functionality is completed:
 
 * [x] User can **view a list of todo items**
